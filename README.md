@@ -82,6 +82,25 @@ This reference focuses on the practical integration of:
 * **Continuous Improvement**
 
 ---
+## References & Standards Basis
+
+This reference document is informed by internationally recognized standards, frameworks, and professional bodies of knowledge related to business continuity, disaster recovery, ICT readiness, information security, risk management, IT service management, and project management.
+
+Key references include:
+
+- [**ISO 22301:2019**](https://www.iso.org/standard/75106.html) — Business Continuity Management Systems (BCMS) requirements
+- [**ISO 22313:2020**](https://www.iso.org/standard/75107.html) — Guidance on the use of ISO 22301
+- [**ISO/IEC 27031:2025**](https://www.iso.org/standard/27031) — ICT readiness for business continuity
+- [**ISO/IEC 27001:2022**](https://www.iso.org/standard/27001) — Information Security Management Systems (ISMS)
+- [**ISO 31000:2018**](https://www.iso.org/standard/65694.html) — Risk management guidelines
+- [**NIST SP 800-34 Rev. 1**](https://csrc.nist.gov/pubs/sp/800/34/r1/upd1/final) — Contingency Planning Guide for Federal Information Systems
+- [**PMBOK® Guide and The Standard for Project Management**](https://www.pmi.org/standards/pmbok) — Project management governance and delivery practices
+- [**ITIL 4**](https://www.axelos.com/certifications/itil-4-foundation) — IT service management and continual improvement practices
+
+This repository and its PDF reference are intended for professional knowledge-sharing and practical learning purposes. They do not replace official standards, regulatory obligations, certification requirements, or organization-specific governance frameworks.
+
+---
+
 
 ## Author
 
